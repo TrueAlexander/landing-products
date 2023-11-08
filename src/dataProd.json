@@ -1,0 +1,72 @@
+
+[
+  {
+    "id": 0,
+    "category": "Casa",
+    "photo_main": "assets/id_0/photo_main.jpg",
+    "title": "R. Nelson Mandela, Rio de Janeiro, RJ",
+    "featured": false,
+    "url": "https://www.amazon.com.br"
+  },
+  {
+    "id": 1,
+    "category": "Casa",
+    "photo_main": "assets/id_1/photo_main.jpg",
+    "title": "R. Almirante Tamandaré, RJ",
+    "featured": true,
+    "url": "https://www.amazon.com.br"
+  },
+  {
+    "id": 2,
+    "category": "Apartamento",
+    "photo_main": "assets/id_2/photo_main.jpg",
+    "title": "R. Claudia da Rocha, Rio de Janeiro, RJ",
+    "featured": false,
+    "url": "https://www.amazon.com.br"
+  },
+  {
+    "id": 3,
+    "category": "Apartamento",
+    "photo_main": "assets/id_3/photo_main.jpg",
+    "title": "Av. Aleksander Humboldt, Rio de Janeiro, RJ",
+    "featured": true,
+    "url": "https://www.amazon.com.br"
+  },
+  {
+    "id": 4,
+    "category": "Apartamento",
+    "photo_main": "assets/id_4/photo_main.jpg",
+    "title": "R. Presidente Gorbachev, Rio de Janeiro, RJ",
+    "featured": false,
+    "url": "https://www.amazon.com.br"
+  },
+  {
+    "id": 5,
+    "category": "Kitnet",
+    "photo_main": "assets/id_5/photo_main.jpg",
+    "title": "R. Galina Mendes, Rio de Janeiro, RJ",
+    "featured": false,
+    "url": "https://www.amazon.com.br"
+  },
+  {
+    "id": 6,
+    "category": "Casa",
+    "photo_main": "assets/id_6/photo_main.jpg",
+    "title": "R. Vladimir Oliveira, Rio de Janeiro, RJ",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "category": "Kitnet",
+    "photo_main": "assets/id_7/photo_main.jpg",
+    "title": "R. Olga Bonfilho, Rio de Janeiro, RJ",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "category": "Apartamento",
+    "photo_main": "assets/id_8/photo_main.jpg",
+    "title": "R. Lucine Marina Souza, Rio de Janeiro, RJ",
+    "featured": false
+  }
+]

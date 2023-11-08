@@ -1,34 +1,29 @@
-import dataProp from '../dataProp.json'
+import dataProd from '../dataProd.json'
 import PropertyItem from '../components/propertyItem/PropertyItem'
 import 'animate.css'
 
-const filterRender = (type) => {
+const filterRender = (category) => {
   
-  
+  console.log(category)
   // filtering dataProp
-  const filteredArr = dataProp.filter((item) => {
-    if (item.type === type || type === "Todos") return item
+
+  
+  const filteredArr = category === "Todos" ? dataProd : dataProd.filter((item) => {
+    if (item.category === category) return item
   })
+
   //rendering results
   return filteredArr.length > 0 ? filteredArr.map((item => {
     return <PropertyItem 
               key={item.id}
-              address={item.address}
-              zone={item.zone}
-              price={item.price}
-              type={item.type}
-              rooms_num={item.rooms_num}
-              bath_num={item.bath_num}
-              area={item.area} 
-              description={item.description}
-              purpose={item.purpose}
+              title={item.title}
+              category={item.category}
               featured={item.featured}
               photo_main={item.photo_main}
-              photos={item.photos}
-              code={item.code} 
+              url={item.url}
             />
   })) : <div className="animate__animated animate__fadeIn animate__slow">
-          <h2 className='property-note'>Desculpe!..  Atualmente não temos imóveis disponíveis para esta solicitação!</h2>
+          <h2 className='property-note'>Desculpe!   Atualmente não temos produtos disponíveis para esta solicitação!</h2>
           <h2 className='property-note blue'>Por favor, faça uma nova busca com outros requisitos!</h2>
         </div>
 }

@@ -47,7 +47,7 @@ const Navbar = ({fullNav}) => {
     return (
         <div className='navbar' style={fullNav ? {position: "absolute"} : {position: "static"}}>
             <div className='container'>
-                <h1><span><BsFillHouseFill />Sasha</span> Imóveis</h1>
+                <h1><span><BsFillHouseFill />Produtos</span> de Casa</h1>
                 {/* <ul 
                     className={burger && window.innerWidth < 940
                         ? 'nav-menu active animate__animated animate__fadeIn' 
