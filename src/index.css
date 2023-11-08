@@ -1,0 +1,88 @@
+/*reset default CSS*/
+*{padding: 0;margin: 0;}
+*,*:before,*:after{-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+input,button,textarea{font-family:inherit;}
+button{padding:0;border:none;color: inherit;background-color:transparent;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner{padding:0;border:0;}
+a,a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;} 
+/*--------------------*/
+
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #333;
+}
+
+body {
+  margin: 0;
+  font-family: "Raleway", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+.container {
+  max-width: 1240px;
+  margin: auto;
+  
+}
+
+.btn {
+  color: #fff;
+  padding: 0.5rem 1rem;
+  background-image: linear-gradient(45deg, #5651e5 0%, #709dff 100%);
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  transition: 0.4s;
+  cursor: pointer;
+  transition: all 0.5s ease 0.05s;
+  
+}
+
+.btn:hover {
+  background-image: linear-gradient(100deg, #5651e5 0%, #709dff 100%);
+  transition: all 0.5s ease 0.05s;
+}
+
+.btn:active {
+  transform: translate(4px);
+  box-shadow: 0px 0px 1px rgba(0, 0, 0, 0, 0.2);
+  border-bottom: none;
+}
+
+.blue {
+  color:#5651e5;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.scrollLink:hover {
+  cursor: pointer;
+}
+
+@media screen and (max-width: 600px) {
+  .btn {
+    padding: 0.3rem 1rem;   
+  }
+}
