@@ -18,7 +18,7 @@ const ProductPage = () => {
     <>
       <Navbar fullNav={false}/>
       <ProductHead dataToRender={dataToRender}/>
-      <div className="animate__animated animate__fadeIn animate__slow" key={filterRender(typeRender)}>
+      <div className="animate__animated animate__fadeIn animate__slow container container__properties" key={filterRender(typeRender)}>
         {filterRender(typeRender)}
       </div>   
     </>

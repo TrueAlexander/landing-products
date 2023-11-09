@@ -40,14 +40,16 @@ body {
 }
 
 .container {
-  max-width: 1240px;
+  max-width: 1460px;
   margin: auto;
-  
+  overflow: hidden;
+  padding: 0 10px;
 }
 
 .btn {
+  display: block;
   color: #fff;
-  padding: 0.5rem 1rem;
+  padding: 0.3rem 0.8rem;
   background-image: linear-gradient(45deg, #5651e5 0%, #709dff 100%);
   border: none;
   border-radius: 8px;
@@ -55,6 +57,7 @@ body {
   transition: 0.4s;
   cursor: pointer;
   transition: all 0.5s ease 0.05s;
+  margin: 0 0 0 auto;
   
 }
 

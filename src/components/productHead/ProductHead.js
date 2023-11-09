@@ -6,13 +6,13 @@ import 'animate.css'
 
 const ProductHead = ({dataToRender}) => {
 
-  const [animated, setAnimated] = useState(false)
+  // const [animated, setAnimated] = useState(false)
 
   const [typeSelected, setTypeSelected] = useState("Todos")
 
   const changeTypeHandler = (e) => {
     setTypeSelected(e.target.innerText)
-    setAnimated(true)
+    // setAnimated(true)
   }
 
   useEffect(() => {
