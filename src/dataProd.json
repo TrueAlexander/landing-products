@@ -2,71 +2,179 @@
 [
   {
     "id": 0,
-    "category": "Casa",
-    "photo_main": "assets/id_0/photo_main.jpg",
-    "title": "R. Nelson Mandela, Rio de Janeiro, RJ",
+    "category": "Eletrodomésticos",
+    "photo_main": "assets/id_0/photo_main.png",
+    "title": "Difusores de aromaterapia 2 em 1 umidificador difusor de óleo essencial com luz noturna de chama, 180 ml, umidificador de névoa silenciosa para difusor de ar aromático doméstico, proteção contra desligamento automático sem água",
     "featured": false,
-    "url": "https://www.amazon.com.br"
+    "url": "https://amzn.to/3FWUskq"
   },
   {
     "id": 1,
-    "category": "Casa",
-    "photo_main": "assets/id_1/photo_main.jpg",
-    "title": "R. Almirante Tamandaré, RJ",
+    "category": "Cozinha",
+    "photo_main": "assets/id_1/photo_main.png",
+    "title": "COKUNST Abridor de vinho elétrico, saca-rolhas de vinho reutilizável com cortador de lacre, de aço inoxidável, operado a pilhas, para uso em casa, no restaurante, bar, festa",
     "featured": true,
-    "url": "https://www.amazon.com.br"
+    "url": "https://amzn.to/3FVqRaQ"
   },
   {
     "id": 2,
-    "category": "Apartamento",
-    "photo_main": "assets/id_2/photo_main.jpg",
-    "title": "R. Claudia da Rocha, Rio de Janeiro, RJ",
+    "category": "Eletrodomésticos",
+    "photo_main": "assets/id_2/photo_main.png",
+    "title": "Chaleira Elétrica, 1,7L, Prata, 110v, Hamilton Beach",
     "featured": false,
-    "url": "https://www.amazon.com.br"
+    "url": "https://amzn.to/49y7guX"
   },
   {
     "id": 3,
-    "category": "Apartamento",
-    "photo_main": "assets/id_3/photo_main.jpg",
-    "title": "Av. Aleksander Humboldt, Rio de Janeiro, RJ",
+    "category": "Eletrodomésticos",
+    "photo_main": "assets/id_3/photo_main.png",
+    "title": "Torradeira Oster 127V - OTOR650, Modelo: OTOR650-127V",
     "featured": true,
-    "url": "https://www.amazon.com.br"
+    "url": "https://amzn.to/47o2uhC"
   },
   {
     "id": 4,
-    "category": "Apartamento",
-    "photo_main": "assets/id_4/photo_main.jpg",
-    "title": "R. Presidente Gorbachev, Rio de Janeiro, RJ",
+    "category": "Eletrodomésticos",
+    "photo_main": "assets/id_4/photo_main.png",
+    "title": "Umidificador de Ar Luminária com Difusor de Aromas WAP AIR FLOW Bivolt Sistema Ultrassônico Aromatizador de Ambientes",
     "featured": false,
-    "url": "https://www.amazon.com.br"
+    "url": "https://amzn.to/47xnmDr"
   },
   {
     "id": 5,
-    "category": "Kitnet",
-    "photo_main": "assets/id_5/photo_main.jpg",
-    "title": "R. Galina Mendes, Rio de Janeiro, RJ",
+    "category": "Eletrodomésticos",
+    "photo_main": "assets/id_5/photo_main.png",
+    "title": "Aspirador de Pó Robô Mars Varre + Aspira + Passa Pano Bivolt com 30W e Bateria Recarregável, Vermelho/Preto Multi Home - HO400",
     "featured": false,
-    "url": "https://www.amazon.com.br"
+    "url": "https://amzn.to/3u70Pi9"
   },
   {
     "id": 6,
-    "category": "Casa",
-    "photo_main": "assets/id_6/photo_main.jpg",
-    "title": "R. Vladimir Oliveira, Rio de Janeiro, RJ",
-    "featured": false
+    "category": "Banheiro",
+    "photo_main": "assets/id_6/photo_main.png",
+    "title": "CMimo Style Conjunto de Banheiro Lunar na Cor Bronze, Acompanha 3 Itens, Porta Sabonete Líquido 360ml, Porta Escova e Saboneteira, Kit Funcional",
+    "featured": false,
+    "url": "https://amzn.to/478GsQu"
   },
   {
     "id": 7,
-    "category": "Kitnet",
-    "photo_main": "assets/id_7/photo_main.jpg",
-    "title": "R. Olga Bonfilho, Rio de Janeiro, RJ",
-    "featured": false
+    "category": "Decoração",
+    "photo_main": "assets/id_7/photo_main.png",
+    "title": "Espelho Orgânico - Couro - 60x80cm (Caramelo)",
+    "featured": false,
+    "url": "https://amzn.to/3QD228H"
   },
   {
     "id": 8,
-    "category": "Apartamento",
-    "photo_main": "assets/id_8/photo_main.jpg",
-    "title": "R. Lucine Marina Souza, Rio de Janeiro, RJ",
-    "featured": false
+    "category": "Cozinha",
+    "photo_main": "assets/id_8/photo_main.png",
+    "title": "Porta Xícaras de Chá, L. 16 x A 26.5cm, Rosé Gold, Arthi",
+    "featured": false,
+    "url": "https://amzn.to/3FVsaqg"
+  },
+ {
+    "id": 9,
+    "category": "Eletrodomésticos",
+    "photo_main": "assets/id_9/photo_main.png",
+    "title": "Mimo Style Cafeteira Prensa Francesa, Com Haste e Alça, Resistente, Suporta Altas e Baixas Temperaturas (-20 °C a 180 °C), Excelente Sistema de Filtragem (350ml)",
+    "featured": false,
+    "url": "https://amzn.to/3sn5JHB"
+  },
+ {
+    "id": 10,
+    "category": "Cozinha",
+    "photo_main": "assets/id_10/photo_main.png",
+    "title": "Kit Suporte 4 Xicaras Expresso Bandeja Cantinho do Café Frases Espaço",
+    "featured": false,
+    "url": "https://amzn.to/465OiJ7"
+  },
+ {
+    "id": 11,
+    "category": "Móveis",
+    "photo_main": "assets/id_11/photo_main.png",
+    "title": "Mesa de Apoio e Mesa Lateral - Kit Duplo Classic - Off White/Freijó - Mania de Móveis",
+    "featured": false,
+    "url": "https://amzn.to/40xs15O"
+  },
+ {
+    "id": 12,
+    "category": "Cozinha",
+    "photo_main": "assets/id_12/photo_main.png",
+    "title": "Mimo Style Jogo de 3 Pçs Bowls Ecokitchen, Feito Inteiramente de Bambu Ecológico. Resistente e Durável. Kit Para Servir Seus Convidados. Conjunto de Bowl Para Molhos, Saladas e Petiscos, KITM12",
+    "featured": false,
+    "url": "https://amzn.to/40ASdMZ"
+  },
+  {
+    "id": 13,
+    "category": "Decoração",
+    "photo_main": "assets/id_12/photo_main.png",
+    "title": "4 Quadros Decorativos Cantinho do Café MDF Relevo Cor:Bege",
+    "featured": false,
+    "url": "https://amzn.to/3ubzsDI"
+  },
+ {
+    "id": 14,
+    "category": "Cozinha",
+    "photo_main": "assets/id_13/photo_main.png",
+    "title": "Potes Herméticos Porta-Mantimentos com Tampa de Bambu Electrolux - 4 unidades",
+    "featured": false,
+    "url": "https://amzn.to/49zJIWs"
+  },
+ {
+    "id": 15,
+    "category": "Móveis",
+    "photo_main": "assets/id_14/photo_main.png",
+    "title": "Aparador Buffet Retrô 2 Portas Grécia Ripado 3D Luxo (Preto/Ripado)",
+    "featured": false,
+    "url": "https://amzn.to/40za5I2"
+ },
+ {
+    "id": 16,
+    "category": "Decoração",
+    "photo_main": "assets/id_15/photo_main.png",
+    "title": "Kit 2 Prateleiras de Madeira Maciça Pinus 40x15cm com alça Caramelo para sala cozinha banheiro quarto",
+    "featured": false,
+    "url": "https://amzn.to/3SAAcwe"
+  },
+  {
+    "id": 17,
+    "category": "Decoração",
+    "photo_main": "assets/id_16/photo_main.png",
+    "title": "Luminaria 3D Touch Lua Cheia Abajur LED Decoracao USB RGB",
+    "featured": false,
+    "url": "https://amzn.to/3sxs1Gz"
+  },
+  {
+    "id": 18,
+    "category": "Decoração",
+    "photo_main": "assets/id_17/photo_main.png",
+    "title": "Quadro Decorativo Grande Minimalista Orgânico Floral Moderno Formas Escritório Sala Quarto",
+    "featured": false,
+    "url": "https://amzn.to/3QUVBPy"
+  },
+  {
+    "id": 19,
+    "category": "Decoração",
+    "photo_main": "assets/id_18/photo_main.png",
+    "title": "Vaso Cachepot de Mesa 25cm Porcelana com Tripé de Madeira (Tiffany)",
+    "featured": false,
+    "url": "https://amzn.to/3QTUMGB"
+  },
+  {
+    "id": 20,
+    "category": "Decoração",
+    "photo_main": "assets/id_19/photo_main.png",
+    "title": "Kit 4 Capas de Almofadas Decorativas 45x45 - Nature",
+    "featured": false,
+    "url": "https://amzn.to/46d6kZY"
+  },
+  {
+    "id": 21,
+    "category": "Decoração",
+    "photo_main": "assets/id_20/photo_main.png",
+    "title": "Puff Em Couro E Linho Pés Madeira Maciça 42x32 Luma",
+    "featured": false,
+    "url": "https://amzn.to/3MC3JSo"
   }
+
 ]
