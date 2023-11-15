@@ -13,7 +13,8 @@ a:hover{text-decoration: none;}
 ul li{list-style: none;} 
 /*--------------------*/
 
-@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 
 * {
   box-sizing: border-box;
@@ -32,7 +33,7 @@ a {
 
 body {
   margin: 0;
-  font-family: "Raleway", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+  font-family: "Roboto", "Oxygen", "Ubuntu", "Cantarell",
     "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -57,7 +58,7 @@ body {
   transition: 0.4s;
   cursor: pointer;
   transition: all 0.5s ease 0.05s;
-  margin: 0 0 0 auto;
+  margin: 0 10px 5px auto;
   
 }
 

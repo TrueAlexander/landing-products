@@ -13,7 +13,7 @@ const PropertyItem = ({
 
   return (
     <div className="property">    
-      <a href={url}>
+      <a href={url} target="_blank">
         <img className='' 
             src={photo_main}
             // src=""
@@ -28,7 +28,7 @@ const PropertyItem = ({
           </div>
       </div>
       <div className='span-2 right-img-details'>
-          <button className='btn' title='Comprar'><a href={url}>Comprar</a></button>
+          <button className='btn' title='Comprar'><a href={url} target="_blank">Comprar</a></button>
       </div>
     </div>  
   )
