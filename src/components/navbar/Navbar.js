@@ -1,20 +1,25 @@
 import {BsFillHouseFill} from 'react-icons/bs'
+import Logo from '../../assets/capivaraq.svg'
 
 
 import './Navbar.css'
 
-const Navbar = ({fullNav}) => {
-
-
+const Navbar = () => {
 
     return (
-        <div className='navbar' style={fullNav ? {position: "absolute"} : {position: "static"}}>
+        <div className='navbar' >
             <div className='container'>
-                <h1><span><BsFillHouseFill />Catálogo</span> de Produtos</h1>
-
+            <div className='logo'>
+                        <img src={Logo}/>
+                    </div> 
+                <h1>
+                    <span>Capivara</span> Acha
+                </h1>
             </div>
         </div>
     )
 }
+
+
 
 export default Navbar
