@@ -4,6 +4,7 @@
     grid-template-columns: repeat(5, 1fr);
     column-gap: 1.2rem;
     
+    
 }
 
 .property {
@@ -18,7 +19,8 @@
     justify-content: space-between;
     margin-bottom: 2.5rem;
     overflow: hidden; 
-    transition: 0.5s ease-in-out 0.1s;   
+    transition: 0.5s ease-in-out 0.1s;
+    background-color: white;   
 }
 
 .property:hover {
@@ -93,6 +95,13 @@
 
     .property a img {
         margin-bottom: 7px;
+    }
+
+    .property:hover {
+        /* border: 2px solid #C39B6E; */
+        box-shadow: none;
+        transition: 0.5s ease-in-out 0.1s;
+        transform: none; 
     }
 }
 
