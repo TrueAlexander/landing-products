@@ -1,6 +1,8 @@
 import './PropertyItem.css'
 // import { useState } from 'react'
 // import useIsMounted from '../../utils/useIsMounted'
+import { LazyLoadImage } from 'react-lazy-load-image-component'
+import 'react-lazy-load-image-component/src/effects/blur.css'
 
 const PropertyItem = ({
     title,
@@ -14,11 +16,12 @@ const PropertyItem = ({
   return (
     <div className="property">    
       <a href={url} target="_blank">
-        <img className='' 
-            src={photo_main}
-            // src=""
-            alt=''  
-            title='Comprar' 
+        <LazyLoadImage
+          className='img'
+          src={photo_main}
+          effect="blur"  
+          alt='' 
+          title='Comprar'   
         />
       </a>
       <div className='span-3 img-details'>
