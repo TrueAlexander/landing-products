@@ -1,8 +1,6 @@
 .navbar {
     width: 90%;
     height: 90px;
-    /* top: 0;
-    left: 0; */
     margin: 0 auto;
     background-color: hsla(32, 41%, 60%, 0.0);
     border-bottom: 3px solid #C39B6E;
@@ -19,7 +17,8 @@
 
 .logo {
     display: inline-block;
-    transform: scale(0.8);  
+    transform: scale(0.8); 
+    /* cursor: pointer;  */
 }
 
 .navbar span {   
@@ -27,7 +26,7 @@
 }
 
 .navbar h1 {
-    cursor: pointer;
+    /* cursor: pointer; */
 }
 
 /* .navbar .nav-menu {
