@@ -21,7 +21,7 @@ const PropertyItem = ({
           src={photo_main}
           effect="blur"  
           alt='' 
-          title='Comprar'   
+          title='Ver detalhes'   
         />
       </a>
       <div className='span-3 img-details'>
@@ -31,7 +31,7 @@ const PropertyItem = ({
           </div>
       </div>
       <div className='span-2 right-img-details'>
-          <button className='btn' title='Comprar'><a href={url} target="_blank">Comprar</a></button>
+          <button className='btn' title='Comprar'><a href={url} target="_blank">Ver detalhes</a></button>
       </div>
     </div>  
   )
