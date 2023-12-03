@@ -21,7 +21,7 @@ const PropertyItem = ({
           src={photo_main}
           effect="blur"  
           alt='' 
-          title='Ver detalhes'   
+          title='Ver detalhes'
         />
       </a>
       <div className='span-3 img-details'>

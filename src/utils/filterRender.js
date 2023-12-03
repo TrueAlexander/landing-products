@@ -4,7 +4,7 @@ import 'animate.css'
 
 const filterRender = (category) => {
   
-  console.log(category)
+  // console.log(category)
   // filtering dataProp
 
   
@@ -12,8 +12,13 @@ const filterRender = (category) => {
     if (item.category === category) return item
   })
 
+  const shuffleArray = (array) =>
+  [...array].sort(() => Math.random() - 0.5)
+  
+  const arrShuffled = shuffleArray(filteredArr)
+
   //rendering results
-  return filteredArr.length > 0 ? filteredArr.map((item => {
+  return filteredArr.length > 0 ? arrShuffled.map((item => {
     return <PropertyItem 
               key={item.id}
               title={item.title}
