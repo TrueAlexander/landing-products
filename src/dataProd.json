@@ -247,5 +247,45 @@
     "title": "Frigobar, 45L, 127 V, Branco",
     "featured": false,
     "url": "https://amzn.to/40MqlWs"
+  },
+  {
+    "id": 31,
+    "category": "Eletrodomésticos",
+    "photo_main": "assets/id_31/photo_main.png",
+    "title": "Gerador De Energia Solar, Painel Solar Portátil De 9W, Porta Usb Com Iluminação De Lâmpada",
+    "featured": false,
+    "url": "https://amzn.to/46mHYgo"
+  },
+  {
+    "id": 32,
+    "category": "Eletrodomésticos",
+    "photo_main": "assets/id_32/photo_main.png",
+    "title": "Gerador solar portátil da estação de energia 600W(pico de 1200 W), 568Wh ao ar livre gerador solar móvel bateria de lítio com painel solar 100W para RV Road Trip Camping",
+    "featured": false,
+    "url": "https://amzn.to/3MRi2Th"
+  },
+  {
+    "id": 33,
+    "category": "Eletrodomésticos",
+    "photo_main": "assets/id_33/photo_main.png",
+    "title": "Painel Solar Portátil Carregador de Telefone para Android Smartphones Tablets Android Painel Solar Dobrável para Acampar Ao Ar Livre",
+    "featured": false,
+    "url": "https://amzn.to/47Hh4kO"
+  },
+  {
+    "id": 34,
+    "category": "Eletrodomésticos",
+    "photo_main": "assets/id_34/photo_main.png",
+    "title": "Mini Liquidificador Portátil Shake 6 Laminas + Cabo USB",
+    "featured": false,
+    "url": "https://shope.ee/508wmFLLCQ"
+  },
+  {
+    "id": 35,
+    "category": "Eletrodomésticos",
+    "photo_main": "assets/id_35/photo_main.png",
+    "title": "Cafeteira Italiana Alumínio Premium 3 6 9 Xícaras Moka Café Expresso",
+    "featured": false,
+    "url": "https://shope.ee/4AZploC0OR"
   }
 ]
