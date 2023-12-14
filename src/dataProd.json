@@ -282,10 +282,26 @@
   },
   {
     "id": 35,
-    "category": "Eletrodomésticos",
+    "category": "Cozinha",
     "photo_main": "assets/id_35/photo_main.png",
     "title": "Cafeteira Italiana Alumínio Premium 3 6 9 Xícaras Moka Café Expresso",
     "featured": false,
     "url": "https://shope.ee/4AZploC0OR"
+  },
+  {
+    "id": 36,
+    "category": "Eletrodomésticos",
+    "photo_main": "assets/id_36/photo_main.png",
+    "title": "Kindle 11ª Geração (lançamento 2022). Mais leve, com resolução de 300 ppi e o dobro de armazenamento",
+    "featured": false,
+    "url": "https://amzn.to/3GHORPi"
+  },
+  {
+    "id": 37,
+    "category": "Eletrodomésticos",
+    "photo_main": "assets/id_37/photo_main.png",
+    "title": "Celular Xiaomi Redmi Note 12 256/8GB 128/8GB. 6GB ou 4GB Ram Original Versão Global",
+    "featured": false,
+    "url": "https://shope.ee/2Ap0IEVUxO"
   }
 ]
