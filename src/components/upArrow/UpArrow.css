@@ -4,6 +4,7 @@
   top: 88%;
   opacity: 0.65;
   cursor: pointer;
+  z-index: 1000;
 }
 
 .upArrow img {

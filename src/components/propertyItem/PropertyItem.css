@@ -9,7 +9,7 @@
 
 .property {
     position: relative;
-    z-index: 10000;
+    z-index: 999;
     border: 1px solid #C39B6E;
     border-radius: 10px;
     height: max-content;
